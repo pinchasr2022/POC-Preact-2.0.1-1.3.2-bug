@@ -1,4 +1,4 @@
-# Project Description
+# Bug in @preact/signals v2.0.1
 This project is a simple tool to demonstrate a bug in @preact/signals version 2.0.1.
 
 ## Installation
